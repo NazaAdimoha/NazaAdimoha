@@ -1,8 +1,7 @@
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="3rem" width="600" />  
+  
 
-
-I'm Naza Adimoha from Nigeria, and I am a MERN stack Software Engineer, I am heavy on the Frontend. I enjoy learning and keeping myself up to date with the latest Software Engineering Practices.
-
-I am Skilled in the following areas:
+### <div align="right">I'm Naza Adimoha, a full-time MERN-stack developer 👨‍💻... I deliver Value through People, Passionate learning, and Innovation 🚀
 
 Three years of Software Engineering experience, two years of React, Redux, JavaScript, TypeScript, Rest APIs, Next.js, and UI development experience
 
@@ -17,15 +16,7 @@ Strong UI development experience with Material UI, SCSS/SASS, Tailwind, Styled C
 Experience with back-end technologies like NodeJS, Rest APIs, and databases (PostgreSQL, MongoDB)
 
 Exposure to CI/CD pipelines tools like Docker, GitHub Action
-
-Experience with Agile teams in collaborative environments where effective communication is a hard requirement
-
-<div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Naza Adimoha, a full-time MERN-stack developer 👨‍💻... I deliver Value through People, Passionate learning, and Innovation 🚀</div>  
+😎</div>  
   
 
 - 🔭 I’m currently working on [Nextjs Portfolio Website](https://github.com/NazaAdimoha/My_Portfolio_Website)  
@@ -107,7 +98,7 @@ Experience with Agile teams in collaborative environments where effective commun
 <a href="https://twitter.com/Naza Adimoha" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Chinaza Adimoha" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chinazaadimoha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/Naza Adimoha" target="_blank">
@@ -155,5 +146,3 @@ Experience with Agile teams in collaborative environments where effective commun
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
